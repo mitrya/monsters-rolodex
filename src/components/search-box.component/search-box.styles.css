@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Overlock&display=swap');
+
+
+
+.search-box {
+    -webkit-appearance: none;
+    border-width: 3px;
+    border-color: white white white rgb(187, 33, 33);
+    outline: none;
+    padding: 15px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    background: transparent;
+    color: #fff;
+    font-family: 'Overlock', cursive;
+    font-size: medium;
+  }
+
+
